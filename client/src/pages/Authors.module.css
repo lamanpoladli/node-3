@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container3{
+    width: 80%;
+    margin: 0 auto;
+}
+.imgcol{
+    width: 100%;
+    margin: 3% auto ;
+    border-radius: 15px;
+    box-shadow: 5px 10px 18px #888888;
+    padding: 3%;
+
+}
+.imgcol2{
+    width: 100%;
+    border-radius: 15px;
+    height: 100%;
+    overflow: hidden;
+}
+.photoDiv{
+    width: 100%;
+    height: 250px;
+}
+.icons3{
+    width: 45%;
+    display: flex;
+    gap: 20px;
+    margin: 5% auto 0 auto;
+}
+.row3{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.centerDiv{
+    text-align: center;
+
+}
+.aboutDiv{
+    font-size: 20px;
+}
+.btnDiv{
+    width: 60%;
+    margin: 7% auto;
+
+}
+.deletebtn{
+    width: 50%;
+    height: 30px;
+    background-color: rgb(255, 74, 74);
+    border: none;
+    border-radius: 15px;
+}
+.editbtn{
+    width: 50%;
+    height: 30px;
+    background-color: rgb(159, 233, 165);
+    border: none;
+    border-radius: 15px;
+}
